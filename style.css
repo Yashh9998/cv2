@@ -28,6 +28,14 @@ p{
 	color: #40514E;
 }
 
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightslategray;
+  border-width: 10px;
+  width: 20%;
+}
+
 .top-container{
 	background-color: #E4F9F5;
 	position: relative;
